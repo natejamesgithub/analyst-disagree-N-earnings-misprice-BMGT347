@@ -632,11 +632,10 @@ All team members will understand the project's core data, methodology, and resul
 
 BMGT347 Final Project Team
 
-- **Team Lead:** TBD
-- Team Member: TBD
-- Team Member: TBD
-- Team Member: TBD
-- Team Member: TBD
+- **Team Lead:** Nathan James
+- Team Member: Mira Balakrishnan
+- Team Member: Naveena Pillai
+- Team Member: Vir Trivedi
 
 University of Maryland  
 Robert H. Smith School of Business  
