@@ -1,0 +1,12 @@
+[study]
+start = 2005-01-01
+end = 2025-12-31
+forecast_days = 90
+min_analysts = 2
+consensus_floor = 0.01
+max_ibes_score = 1
+unknown_time = "exclude" # exclude or next_session
+crsp_format = "ciz"     # ciz or legacy
+fundamentals = "vintage"    # rdq or vintage
+fundamentals_lag_days = 90
+max_fundamentals_age = 550
